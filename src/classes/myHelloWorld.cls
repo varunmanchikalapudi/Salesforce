@@ -3,9 +3,9 @@ public with sharing class myHelloWorld {
 	{
 		for(Account a: accs)
 		{
-			if(a.Description != 'Hello')
+			if(a.Description != 'Hello World')
 			{
-				a.Description = 'Hello';
+				a.Description = 'Hello World';
 			}
 		}
 	}
