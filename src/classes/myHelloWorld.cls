@@ -9,5 +9,4 @@ public with sharing class myHelloWorld {
 			}
 		}
 	}
-    
 }
